@@ -134,6 +134,16 @@ todo-app/
 ├── docker-compose.yml     # Orchestration
 └── README.md
 
+## 🧪 Backend Testing
+
+Unit and Integration tests are implemented using **PHPUnit**.
+
+### ▶️ Run Tests
+```bash
+cd backend
+./vendor/bin/phpunit
+
+
 🐳 Docker Compose Overview
 
 services:
