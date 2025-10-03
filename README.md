@@ -1,4 +1,4 @@
-# 📝 To-Do Task Web Application  
+<img width="1390" height="555" alt="image" src="https://github.com/user-attachments/assets/646c8557-90f6-4899-8ecd-918fd9a8d5f1" /># 📝 To-Do Task Web Application  
 **Full Stack Engineer / Intern – Take-Home Assessment**
 
 This repository contains the implementation of the **To-Do Task Web Application** developed for the **Full Stack Engineer / Intern Take-Home Assignment**.  
@@ -73,6 +73,9 @@ All data is persisted in a **MySQL database**, and all components are **containe
 | `completed_at` | TIMESTAMP NULL | Completion timestamp |
 
 > Automatically created via `db/init.sql`
+
+<img width="1390" height="555" alt="Screenshot 2025-10-03 153710" src="https://github.com/user-attachments/assets/6e209482-56aa-4c84-8843-4e3a42ae2fca" />
+
 
 ---
 
