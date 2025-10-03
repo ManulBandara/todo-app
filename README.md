@@ -1,4 +1,4 @@
-<img width="1390" height="555" alt="image" src="https://github.com/user-attachments/assets/646c8557-90f6-4899-8ecd-918fd9a8d5f1" /># 📝 To-Do Task Web Application  
+# 📝 To-Do Task Web Application  
 **Full Stack Engineer / Intern – Take-Home Assessment**
 
 This repository contains the implementation of the **To-Do Task Web Application** developed for the **Full Stack Engineer / Intern Take-Home Assignment**.  
