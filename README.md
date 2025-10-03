@@ -143,6 +143,11 @@ Unit and Integration tests are implemented using **PHPUnit**.
 cd backend
 ./vendor/bin/phpunit
 
+PHPUnit Testing
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/18574185-1182-489a-9e4b-63b8baf6dd5a" />
+
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/19e8c9ef-fd38-45f7-93ce-214214dafc44" />
+
 
 🐳 Docker Compose Overview
 
