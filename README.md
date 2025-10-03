@@ -86,17 +86,10 @@ These are the **exact steps** to **build and run** the project as requested in t
 
 ---
 
-PHPUnit Testing
-
-<img width="1907" height="1018" alt="Screenshot 2025-10-03 151007" src="https://github.com/user-attachments/assets/8384ddb1-479b-43dd-bca1-f6477f8da5ba" />
-
-<img width="1903" height="1012" alt="Screenshot 2025-10-03 151122" src="https://github.com/user-attachments/assets/eccc03a9-45df-4ca6-88d6-cc11dddc2d4f" />
-
-
 📋 Steps
 
 1️⃣ Clone the repository
-```bash
+bash
 git clone https://github.com/<your-username>/todo-app.git
 cd todo-app
 
@@ -146,9 +139,15 @@ todo-app/
 Unit and Integration tests are implemented using **PHPUnit**.
 
 ### ▶️ Run Tests
-```bash
+bash
 cd backend
 ./vendor/bin/phpunit
+
+PHPUnit Testing
+
+<img width="1907" height="1018" alt="Screenshot 2025-10-03 151007" src="https://github.com/user-attachments/assets/8384ddb1-479b-43dd-bca1-f6477f8da5ba" />
+
+<img width="1903" height="1012" alt="Screenshot 2025-10-03 151122" src="https://github.com/user-attachments/assets/eccc03a9-45df-4ca6-88d6-cc11dddc2d4f" />
 
 
 🐳 Docker Compose Overview
