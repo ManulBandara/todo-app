@@ -149,6 +149,10 @@ PHPUnit Testing
 
 <img width="1903" height="1012" alt="Screenshot 2025-10-03 151122" src="https://github.com/user-attachments/assets/eccc03a9-45df-4ca6-88d6-cc11dddc2d4f" />
 
+Selenium Testing 
+
+<img width="1918" height="917" alt="Screenshot 2025-10-03 152137" src="https://github.com/user-attachments/assets/3f6c2982-53a4-45a4-a4d8-f00a4ca52dba" />
+
 
 🐳 Docker Compose Overview
 
