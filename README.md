@@ -30,8 +30,6 @@ All data is persisted in a **MySQL database**, and all components are **containe
 [Database - MySQL 8.0]
 
 
-Each component runs in its own container and communicates via an internal Docker network.
-
 ---
 
 ## 🧰 Technology Stack
